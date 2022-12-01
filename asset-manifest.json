@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/spring-practice/static/css/main.a4bc47f2.css",
+    "main.js": "/spring-practice/static/js/main.a72f8dc3.js",
+    "index.html": "/spring-practice/index.html",
+    "main.a4bc47f2.css.map": "/spring-practice/static/css/main.a4bc47f2.css.map",
+    "main.a72f8dc3.js.map": "/spring-practice/static/js/main.a72f8dc3.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a4bc47f2.css",
+    "static/js/main.a72f8dc3.js"
+  ]
+}
